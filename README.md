@@ -5,4 +5,4 @@ Some topics:<br />
 K-means clsutering<br />
 Exchange order book simulation<br />
 Monte Carolo Simulation with Middleware Distributive Design and GPU accelorating with OpenGL<br />
-Genetic Algorithm Optimal Parameter Searching
+Back Testing & Genetic Algorithm Optimal Parameter Searching
